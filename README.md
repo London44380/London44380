@@ -61,7 +61,6 @@
 ### 🔹 Mobile  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45"/>
 </p>
 
 ---
@@ -69,8 +68,6 @@
 ### 🔹 Python Tools  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
 </p>
 
 ---
@@ -84,7 +81,7 @@
 
 ### 🔹  Windows Batch (.bat)
 <p>
-  <img src="https://img.icons8.com/fluency/48/batch-file.png" width="45" />
+  <img src="https://img.icons8.com/ios-filled/50/FFFFFF/console.png" width="45" />
 </p>
 
 ---
