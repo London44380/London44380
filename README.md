@@ -14,7 +14,7 @@
 
 - 🇫🇷 Based in France  
 - 💻 Full Stack & Mobile Developer     
-- 🔥 Cybersecurity Specialist Nearly 15 years of experience & mobile development
+- 🔥 Cybersecurity Specialist Nearly 15 Years of Experience
 
 ---
 
