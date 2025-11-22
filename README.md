@@ -109,10 +109,11 @@
 
 ### 🔒 Sentinel (Proprietary)
 Cybersecurity Android application based on local behaviour analysis.  
-*(No redistribution allowed)*
+(No redistribution allowed)
 
 ### 📲 London (Proprietary Android Personal App)
-My personal social media hub with custom branding.  
+My personal social media hub with custom branding.
+(No redistribution allowed)
 
 ### 🐍 Python Projects  
 
