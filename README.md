@@ -108,8 +108,7 @@
   <img src="https://img.icons8.com/color/48/000000/vpn.png" alt="VPN" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/firewall.png" alt="Firewall" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/proxy.png" alt="Proxy" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" alt="VMware" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" alt="VMware" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" alt="VMware" width="50" height="50"/> 
 </p>
 
 ---
