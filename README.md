@@ -132,6 +132,7 @@ My personal social media hub with custom branding.
 
 ### 🐍 Python Projects  
 
+- **WinBlue**
 - **Storm**  
 - **SSHS**  
 - **FiveGhost**
