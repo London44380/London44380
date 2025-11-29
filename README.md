@@ -53,7 +53,7 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" />
-  <img src="https://img.shields.io/badge/RustCDN-Fast%20%26%20Safe-orange?style=for-the-badge&logo=rust" alt="RustCDN" />
+  <img src="https://img.shields.io/badge/Rust-Fast%20%26%20Safe-orange?style=for-the-badge&logo=rust" alt="RustCDN" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/>
