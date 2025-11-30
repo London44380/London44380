@@ -133,6 +133,7 @@ My personal social media hub with custom branding.
 
 ### 🐍 Python Projects  
 
+- **LayerStat**
 - **WinBlue**
 - **Storm**  
 - **SSHS**  
