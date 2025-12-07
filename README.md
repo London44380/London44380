@@ -93,21 +93,25 @@
 ### 🔹 Tools  
 <p> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@latest/icons/visualstudiocode.svg" width="100" height="40" alt="VSCodium">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@latest/icons/intellijidea.svg" width="100" height="40" alt="IntelliJ IDEA">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@latest/icons/clion.svg" width="100" height="40" alt="CLion">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt Creator" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/shield--v1.png" alt="Sécurité" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/metasploit.svg" alt="Metasploit" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/wireshark.svg" alt="Wireshark" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/vpn.png" alt="VPN" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/firewall.png" alt="Firewall" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/lock--v1.png" alt="Cryptographie" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@latest/icons/nmap.svg" width="100" height="40" alt="Nmap">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@latest/icons/hydra.svg" width="100" height="40" alt="Hydra">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/owasp.svg" alt="OWASP ZAP" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/wireshark.svg" alt="Wireshark" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/metasploit.svg" alt="Metasploit" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/cloudflare.svg" alt="Cloudflare" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mariadbfoundation.svg" alt="MariaDB" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/cloudflare.svg" alt="Cloudflare" width="50" height="50"/
-  <img src="https://img.icons8.com/color/48/000000/vpn.png" alt="VPN" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/firewall.png" alt="Firewall" width="50" height="50"/> 
+
 </p>
 
 ---
