@@ -114,14 +114,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=london44380&theme=tokyonight&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=london44380&layout=compact&theme=tokyonight)
-</p>
-
----
-
 # 🚀 Featured Projects
 
 ### 🔒 Sentinel (Proprietary)
