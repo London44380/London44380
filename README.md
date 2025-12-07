@@ -101,8 +101,6 @@
   <img src="https://img.icons8.com/color/48/000000/vpn.png" alt="VPN" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/firewall.png" alt="Firewall" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/lock--v1.png" alt="Cryptographie" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@latest/icons/nmap.svg" width="100" height="40" alt="Nmap">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@latest/icons/hydra.svg" width="100" height="40" alt="Hydra">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/owasp.svg" alt="OWASP ZAP" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/wireshark.svg" alt="Wireshark" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/metasploit.svg" alt="Metasploit" width="50" height="50"/>
