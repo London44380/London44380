@@ -30,7 +30,7 @@
 
 ### 🧩 Mobile & Android
 - Kotlin
-- Android Studio
+- IntelliJ IDEA
 
 ---
 
