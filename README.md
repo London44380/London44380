@@ -117,8 +117,8 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=London44380&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=London44380&layout=compact&theme=tokyonight" height="150"/>
+<img src="https://cdn.jsdelivr.net/gh/anuraghazra/github-readme-stats@main/generated/images/top-langs.svg?username=london44380&layout=compact&theme=tokyonight" height="150"/>
+<img src="https://cdn.jsdelivr.net/gh/anuraghazra/github-readme-stats@main/generated/images/card.svg?username=london44380&show_icons=true&theme=tokyonight" height="150"/>
 </p>
 
 ---
