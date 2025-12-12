@@ -8,6 +8,9 @@
   <img src="https://img.shields.io/badge/French_Developer-🇫🇷-blue" />
 </p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=London44380&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=London44380&layout=compact&theme=tokyonight)
+
 
 
 ## 👨‍💻 About Me
