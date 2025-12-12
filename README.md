@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/French_Developer-🇫🇷-blue" />
 </p>
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -16,36 +16,32 @@
 - 💻 Full Stack & Mobile Developer     
 - 🔥 Cybersecurity Specialist Nearly 15 Years of Experience
 
----
+
 
 ### 🐍 Python
 - Tools & Automation
 
----
+
 
 ### 🌐 Web
 - HTML
 
----
+
 
 ### 🧩 Mobile & Android
 - Kotlin
 - IntelliJ IDEA
 
----
 
 ### 🖥️ Windows / Batch
 - Custom .bat scripts
 
----
 
 ## 📌 Contact Me
 
 - 📧 Email: **brandon282859@protonmail.com**  
-- 🔗 LinkedIn: *https://www.linkedin.com/in/brandon-symoens-6ba473387*
-- 🌐 Portfolio: *https://london44380.github.io/portfolio/*
-
----
+- 🔗 LinkedIn: **https://www.linkedin.com/in/brandon-symoens-6ba473387**
+- 🌐 Portfolio: **https://london44380.github.io/portfolio/**
 
 # 💻 Languages & Tools
 
@@ -59,36 +55,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/>
 </p>
 
----
-
 ### 🔹 Mobile  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45"/>
 </p>
 
----
-
 ### 🔹 Python Tools  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
 </p>
-
----
 
 ### 🔹 Web  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
 </p>
 
----
-
 ### 🔹  Windows Batch (.bat)
 <p>
   <img src="https://img.icons8.com/ios-filled/50/FFFFFF/console.png" width="45" />
 </p>
-
----
 
 ### 🔹 Tools  
 <p> 
@@ -111,8 +97,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
 
 </p>
-
----
 
 # 🚀 Featured Projects
 
@@ -146,13 +130,12 @@ My personal social media hub with custom branding.
 - **Sniff**
 - **Kaboom**
 
+### 🇨🇭 C++ Project
+
+- **ReCaptchaV3Plugin**
+
 ### 🖥️ Windows .BAT Project
 
 - **ZeroPort**
-
-
-
----
-
 
 <p align="center"><b>© 2025 London44380 – All Rights Reserved</b></p>
