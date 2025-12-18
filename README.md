@@ -48,16 +48,19 @@
     </td>
 
     <!-- MOBILE -->
+>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,idea" />
     </td>
 
     <!-- DATABASE -->
+>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql,matiadb" />
     </td>
 
     <!-- TOOLS -->
+>
     <td align="center">
       <!-- Linux + IDE + VCS + Qt Creator -->
       <img src="https://skillicons.dev/icons?i=linux,vscode,visualstudio,idea,clion,qt,qtcreator,git,github" /><br/>
