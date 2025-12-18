@@ -37,9 +37,6 @@
 <table>
   <tr>
     <th>Main Languages</th>
-    <th>Mobile</th>
-    <th>Database</th>
-    <th>Tools</th>
   </tr>
   <tr>
     <!-- MAIN LANGUAGES -->
@@ -47,30 +44,25 @@
       <img src="https://skillicons.dev/icons?i=python,kotlin,rust,html,cs,cpp,bash" />
     </td>
 
-    <!-- MOBILE -->
->
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,idea" />
-    </td>
-
-    <!-- DATABASE -->
->
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql,matiadb" />
-    </td>
-
-    <!-- TOOLS -->
->
-    <td align="center">
-      <!-- Linux + IDE + VCS + Qt Creator -->
-      <img src="https://skillicons.dev/icons?i=linux,vscode,visualstudio,idea,clion,qt,qtcreator,git,github" /><br/>
-      <!-- Sécurité / Mobile -->
-      <img src="https://skillicons.dev/icons?i=kali,burpsuite,wireshark,metasploit,androidstudio" /><br/>
-      <!-- OWASP -->
-      <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
-    </td>
-  </tr>
-</table>
+### 🔹 Tools  
+<p> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@latest/icons/visualstudiocode.svg" width="100" height="40" alt="VSCodium">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@latest/icons/intellijidea.svg" width="100" height="40" alt="IntelliJ IDEA">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@latest/icons/clion.svg" width="100" height="40" alt="CLion">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt Creator" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/shield--v1.png" alt="Sécurité" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/vpn.png" alt="VPN" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/firewall.png" alt="Firewall" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/lock--v1.png" alt="Cryptographie" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/owasp.svg" alt="OWASP ZAP" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/wireshark.svg" alt="Wireshark" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/metasploit.svg" alt="Metasploit" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/cloudflare.svg" alt="Cloudflare" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mariadbfoundation.svg" alt="MariaDB" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
 
 ### 🐍 Python
 - Tools & Automation
