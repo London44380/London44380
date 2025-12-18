@@ -31,6 +31,8 @@
 - 🔗 LinkedIn: **https://www.linkedin.com/in/brandon-symoens-6ba473387**
 - 🌐 Portfolio: **https://london44380.github.io/portfolio/**
 
+## 💻 Languages & Tools
+
   <tr>
     <!-- MAIN LANGUAGES -->
     <td align="center">
