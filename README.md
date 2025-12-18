@@ -108,9 +108,9 @@ Cybersecurity Android application based on local behaviour analysis.
 My personal social media hub with custom branding.
 (No redistribution allowed)
 
-### 📲⚡DroidAttack (Proprietary Android Personal App)
+### 📲⚡DroidAttack (Proprietary)
 
-### 📲📶BlueDroid (Proprietary Android Personal App)
+### 📲📶BlueDroid (Proprietary)
 
 ### 🐍 Python Projects  
 
