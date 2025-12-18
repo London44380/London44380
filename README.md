@@ -38,8 +38,7 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=python,kotlin,rust,html,cs,cpp,bash" />
     </td>
-
-### 🔹 Tools  
+    
 <p> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@latest/icons/visualstudiocode.svg" width="100" height="40" alt="VSCodium">
