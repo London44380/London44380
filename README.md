@@ -4,14 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=London&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=London44380&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=London44380&layout=compact&theme=tokyonight" alt="Top Langs" />
-</div>
-
 <p align="center">
   <img src="https://img.shields.io/badge/French_Developer-🇫🇷-blue" />
 </p>
