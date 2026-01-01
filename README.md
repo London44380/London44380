@@ -21,8 +21,8 @@
 
 - 📧 Email: **brandon282859@protonmail.com**  
 - 🔗 LinkedIn: **https://www.linkedin.com/in/brandon-symoens-6ba473387**
-- 🌐 Portfolio: **https://london44380.github.io/portfolio/**
-- 🌐 LondonBlog: **https://london44380.github.io/londonblog/**
+- 🌐✅ Portfolio: **https://london44380.github.io/portfolio/**
+- 🌐🔒 LondonBlog: **https://london44380.github.io/londonblog/**
 
 ## 💻 Languages & Tools
 
