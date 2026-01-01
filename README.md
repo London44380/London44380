@@ -59,6 +59,8 @@
 
 # 🚀 Featured Projects
 
+### 🌐 LondonBlog (Proprietary)
+
 ### 🔒 Sentinel (Proprietary)
 Cybersecurity Android application based on local behaviour analysis.  
 (No redistribution allowed)
