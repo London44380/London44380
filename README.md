@@ -76,6 +76,8 @@ My personal social media hub with custom branding.
 
 ### 📲📴WifiDroid (Proprietary)
 
+### 📲🔍SubDroid (Proprietary)
+
 ### 🐍 Python Projects  
 
 - **LayerStat**
