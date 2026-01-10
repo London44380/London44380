@@ -80,6 +80,7 @@ My personal social media hub with custom branding.
 
 ### 🐍 Python Projects  
 
+- **BlackOut⚡**
 - **LayerStat**
 - **WinBlue**
 - **Storm**  
