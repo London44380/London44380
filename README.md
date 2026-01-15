@@ -29,7 +29,7 @@
   <tr>
     <!-- MAIN LANGUAGES -->
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,kotlin,rust,html,cs,cpp,bash" />
+      <img src="https://skillicons.dev/icons?i=python,kotlin,ruby,rust,html,cs,cpp,bash" />
     </td>
     
 <p> 
