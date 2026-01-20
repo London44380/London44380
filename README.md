@@ -60,6 +60,8 @@
 
 # 🚀 Featured Projects
 
+### 🌐 LondonPortfolio (Proprietary)
+
 ### 🌐 LondonBlog (Proprietary)
 
 ### 🔒 Sentinel (Proprietary)
