@@ -80,6 +80,8 @@ My personal social media hub with custom branding.
 
 ### 📲🔍SubDroid (Proprietary)
 
+### 📲📴DroidDetector (Proprietary)
+
 ### 🐍 Python Projects  
 
 - **BlackOut⚡**
