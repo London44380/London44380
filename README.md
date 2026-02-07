@@ -82,6 +82,8 @@ My personal social media hub with custom branding.
 
 ### 📲📴DroidDetector (Proprietary)
 
+### 📲📶DroidRadar (Proprietary)
+
 ### 🐍 Python Projects  
 
 - **BlackOut⚡**
