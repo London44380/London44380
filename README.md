@@ -88,6 +88,7 @@ My personal social media hub with custom branding.
 
 ### 🐍 Python Projects  
 
+- **BTStrike**
 - **BlackOut⚡**
 - **LayerStat**
 - **WinBlue**
