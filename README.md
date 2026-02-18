@@ -86,6 +86,8 @@ My personal social media hub with custom branding.
 
 ### 📲🔴DroidXploit (Proprietary)
 
+### 📲♉Minotor (Proprietary)
+
 ### 🐍 Python Projects  
 
 - **Pulse**
