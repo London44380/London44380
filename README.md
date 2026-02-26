@@ -88,6 +88,8 @@ My personal social media hub with custom branding.
 
 ### 📲♉Minotor (Proprietary)
 
+### 📲📶BLEDroid (Proprietary)
+
 ### 🐍 Python Projects  
 
 - **Pulse**
