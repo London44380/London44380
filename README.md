@@ -54,7 +54,7 @@
 
 # 🚀 Featured Projects
 
-### 🌐 LondonPortfolio (Proprietary)
+### 🌐 Portfolio (Proprietary)
 
 ### 🌐 LondonBlog (Proprietary)
 
@@ -99,7 +99,6 @@ My personal social media hub with custom branding.
 - **EnergyDown**
 - **BlueDown**
 - **StealDown**
-- **MobiDown**
 - **BrakDown**
 - **BCMDOS**
 - **VigiNotif**
