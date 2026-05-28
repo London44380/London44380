@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋 I'm Brandon Alias London</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=London&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/French_Developer-🇫🇷-blue" />
 </p>
 
