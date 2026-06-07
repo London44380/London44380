@@ -54,16 +54,10 @@
 
 # 🚀 Featured Projects
 
-### 🌐 Portfolio (Proprietary)
-
 ### 🌐 LondonBlog (Proprietary)
 
 ### 🔒 Sentinel (Proprietary)
 Cybersecurity Android application based on local behaviour analysis.  
-(No redistribution allowed)
-
-### 📲 London (Proprietary Android Personal App)
-My personal social media hub with custom branding.
 (No redistribution allowed)
 
 ### 📲⚡DroidAttack (Proprietary)
@@ -86,6 +80,8 @@ My personal social media hub with custom branding.
 
 ### 🐍 Python Projects  
 
+- **Cover**
+- **PYDOS**
 - **Pulse**
 - **BTStrike**
 - **BlackOut⚡**
