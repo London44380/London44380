@@ -10,12 +10,7 @@
 
 - 🇫🇷 Based in France  
 - 💻 Full Stack & Mobile Developer     
-- 🔥 Cybersecurity Specialist Nearly 15 Years of Experience
-
-
-## 📌 Contact Me
-
-- 📧 Email: **brandon282859@protonmail.com**  
+- 🔥 Cybersecurity Specialist Nearly 15 Years of Experience  
 
 
 ## 💻 Languages & Tools
@@ -58,7 +53,11 @@
 
 ### 🌐 LondonStream (Proprietary)
 
+### 🌐 CYBERWIKI (Proprietary)
+
 ### 🌐 CODE (Proprietary)
+
+### 🌐 VOICECHANGER (Proprietary)
 
 ### 🔒 Sentinel (Proprietary)
 Cybersecurity Android application based on local behaviour analysis.  
@@ -84,6 +83,7 @@ Cybersecurity Android application based on local behaviour analysis.
 
 ### 🐍 Python Projects  
 
+- **SQLSCAN**
 - **Cover**
 - **PYDOS**
 - **Pulse**
