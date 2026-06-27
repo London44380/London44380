@@ -111,7 +111,7 @@ Cybersecurity Android application based on local behaviour analysis.
 
 ### 🇨🇭 C++ Project
 
-- **quick-wf-defense**
+- **quick-wf-defense |OPEN-SOURCE|**
 - **ReCaptchaV3Plugin**
 
 ### 🖥️ Windows .BAT Project
