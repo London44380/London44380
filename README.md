@@ -83,6 +83,7 @@ Cybersecurity Android application based on local behaviour analysis.
 
 ### 🐍 Python Projects  
 
+- **BRICKY**
 - **SQLSCAN**
 - **Cover**
 - **PYDOS**
@@ -110,6 +111,7 @@ Cybersecurity Android application based on local behaviour analysis.
 
 ### 🇨🇭 C++ Project
 
+- **quick-wf-defense**
 - **ReCaptchaV3Plugin**
 
 ### 🖥️ Windows .BAT Project
