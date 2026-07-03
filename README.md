@@ -60,8 +60,6 @@
 ### 🌐 VOICECHANGER (Proprietary)
 
 ### 🔒 Sentinel (Proprietary)
-Cybersecurity Android application based on local behaviour analysis.  
-(No redistribution allowed)
 
 ### 📲⚡DroidAttack (Proprietary)
 
@@ -83,6 +81,7 @@ Cybersecurity Android application based on local behaviour analysis.
 
 ### 🐍 Python Projects  
 
+- **WIFIBRICKY**
 - **BRICKY**
 - **SQLSCAN**
 - **Cover**
