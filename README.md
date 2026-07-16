@@ -55,6 +55,8 @@
 
 ### 🌐 CYBERWIKI (Proprietary)
 
+#### 🌐 CVE (Proprietary)
+
 ### 🌐 CODE (Proprietary)
 
 ### 🌐 VOICECHANGER (Proprietary)
@@ -81,6 +83,8 @@
 
 ### 🐍 Python Projects  
 
+- **DOMCHECK**
+- **WEBFUZZ**
 - **WIFIBRICKY**
 - **BRICKY**
 - **SQLSCAN**
