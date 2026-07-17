@@ -83,6 +83,9 @@
 
 ### 🐍 Python Projects  
 
+- **WebTimeMachine**
+- **SecretFind**
+- **CertCheck**
 - **DOMCHECK**
 - **WEBFUZZ**
 - **WIFIBRICKY**
