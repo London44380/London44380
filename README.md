@@ -63,7 +63,7 @@
 
 ### 🔒 Sentinel (Proprietary)
 
-### 📲⚡Relais (Proprietary)
+### 📲Relais (Proprietary)
 
 ### 📲⚡DroidAttack (Proprietary)
 
