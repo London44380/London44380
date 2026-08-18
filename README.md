@@ -13,7 +13,7 @@
 - 🔥 Cybersecurity Specialist Nearly 15 Years of Experience  
 
 
-## 💻 Languages & Tools
+## 💻 Languages
 
   <tr>
     <!-- MAIN LANGUAGES -->
