@@ -39,23 +39,23 @@
 
 ### 📲 Relais (Proprietary)
 
-### 📲⚡DroidAttack (Proprietary)
+### 📲⚡ DroidAttack (Proprietary)
 
-### 📲📶BlueDroid (Proprietary)
+### 📲📶 BlueDroid (Proprietary)
 
-### 📲📴WifiDroid (Proprietary)
+### 📲📴 WifiDroid (Proprietary)
+ 
+### 📲🔍 SubDroid (Proprietary)
 
-### 📲🔍SubDroid (Proprietary)
+### 📲📴 DroidDetector (Proprietary)
 
-### 📲📴DroidDetector (Proprietary)
+### 📲📶 DroidRadar (Proprietary)
 
-### 📲📶DroidRadar (Proprietary)
+### 📲🔴 DroidXploit (Proprietary)
 
-### 📲🔴DroidXploit (Proprietary)
+### 📲♉ Minotor (Proprietary)
 
-### 📲♉Minotor (Proprietary)
-
-### 📲📶BLEDroid (Proprietary)
+### 📲📶 BLEDroid (Proprietary)
 
 ### 🐍 Python Projects  
 
@@ -108,4 +108,4 @@
 
 - **ZeroPort**
 
-<p align="center"><b>© 2026 London088 – All Rights Reserved</b></p>
+<p align="center"><b>© 2026 London088 - All Rights Reserved</b></p>
