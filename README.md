@@ -21,13 +21,6 @@
       <img src="https://skillicons.dev/icons?i=python,kotlin,ruby,rust,html,cs,cpp,bash" />
     </td>
 
-### 🐍 Python
-- Tools & Automation
-
-
-### 🖥️ Windows / Batch
-- Custom .bat scripts
-
 # 🚀 Featured Projects
 
 ### 🌐 LondonBlog (Proprietary)
