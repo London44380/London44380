@@ -125,6 +125,8 @@
 
 ### 🇨🇭 C++ Project
 
+- **SecQuiz**
+- **CyberSec**
 - **quick-wf-defense |OPEN-SOURCE|**
 - **ReCaptchaV3Plugin**
 
