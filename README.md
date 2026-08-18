@@ -85,6 +85,12 @@
 
 ### 🐍 Python Projects  
 
+- **CodeQuantum**
+- **phono**
+- **melo**
+- **adm**
+- **WebVerse**
+- **SIPHER**
 - **WebTimeMachine**
 - **SecretFind**
 - **CertCheck**
