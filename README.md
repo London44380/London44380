@@ -65,6 +65,7 @@
 
 ### 🐍 Python Projects  
 
+- **V4Finder**
 - **CodeQuantum**
 - **phono**
 - **melo**
