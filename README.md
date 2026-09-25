@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Brandon Alias London</h1>
+<h1 align="center">Hi 👋 I'm London</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/French_Developer-🇫🇷-blue" />
