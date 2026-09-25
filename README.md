@@ -65,6 +65,8 @@
 
 ### 🐍 Python Projects  
 
+- **thekeys**
+- **Scrapaud**
 - **V4Finder**
 - **CodeQuantum**
 - **phono**
@@ -99,7 +101,6 @@
 - **BCMDOS**
 - **VigiNotif**
 - **SubZero**
-- **Scrapaud**
 - **Oinoin**
 - **Sniff**
 - **Kaboom**
