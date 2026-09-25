@@ -37,6 +37,8 @@
 
 #### 🌐 CVE (Proprietary)
 
+### 🌐 Directive4 (Proprietary)
+
 ### 🌐 CODE (Proprietary)
 
 ### 🌐 VOICECHANGER (Proprietary)
