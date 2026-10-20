@@ -67,6 +67,7 @@
 
 ### 🐍 Python Projects  
 
+- **broadcom-wps**
 - **Commander**
 - **thekeys**
 - **Scrapaud**
