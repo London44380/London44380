@@ -67,6 +67,9 @@
 
 ### 🐍 Python Projects  
 
+- **Mongopi**
+- **Phppoint**
+- **Theday**
 - **PHPVerse**
 - **broadcom-wps**
 - **Commander**
@@ -109,9 +112,6 @@
 - **Oinoin**
 - **Sniff**
 - **Kaboom**
-- **Mongopi**
-- **Phppoint**
-- **Theday**
 
 ### 🇨🇭 C++ Project
 
