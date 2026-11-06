@@ -43,6 +43,8 @@
 
 ### 🌐 VOICECHANGER (Proprietary)
 
+### 📲 SMSShut (Proprietary)
+
 ### 🔒 Sentinel (Proprietary)
 
 ### 📲 Relais (Proprietary)
