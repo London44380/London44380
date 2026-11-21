@@ -69,6 +69,7 @@
 
 ### 🐍 Python Projects  
 
+- **BitSearch**
 - **Mongopi**
 - **Phppoint**
 - **Theday**
