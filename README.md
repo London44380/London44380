@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/French_Developer-🇫🇷-blue" />
+  <img src="https://komarev.com/ghpvc/?username=London088&label=Profile+Views&color=blue&style=flat" alt="Profile views" />
 </p>
 
 
