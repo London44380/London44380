@@ -70,6 +70,8 @@
 
 ### 🐍 Python Projects  
 
+- **SQLLOOK**
+- **ISCSICSI**
 - **BitSearch**
 - **Mongopi**
 - **Phppoint**
@@ -116,8 +118,6 @@
 - **Oinoin**
 - **Sniff**
 - **Kaboom**
-- **SQLLOOK**
-- **ISCSICSI**
 
 ### 🇨🇭 C++ Project
 
