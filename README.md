@@ -116,6 +116,8 @@
 - **Oinoin**
 - **Sniff**
 - **Kaboom**
+- **SQLLOOK**
+- **ISCSICSI**
 
 ### 🇨🇭 C++ Project
 
